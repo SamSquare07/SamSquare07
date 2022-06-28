@@ -5,5 +5,4 @@ Hello!I am Sam.I'm 16.And I want to be a programmer.But I'm still not sure which
 - 🌱 I’m currently learning ...  Python.
 - 💬 Ask me about ... Anything!I'm a pretty chill person :P
 - 📫 How to reach me: ... Discord : SamSquare#5760, Email : samdanisamin12@gmail.com 
-- 😄 Pronouns: ... He / Him
 
